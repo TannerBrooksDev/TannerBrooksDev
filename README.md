@@ -18,6 +18,11 @@ the work force.
 2. Learn more about modern tools used in the work force
 3. Startworking on my Computer Science Capstone project
 
+## Contact Information
+
+**Linkedin:** www.linkedin.com/in/tanner-brooks-a471592b7
+**Email:** TannerBrooksDev@Yahoo.com
+
 
 
 
