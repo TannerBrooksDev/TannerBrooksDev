@@ -12,6 +12,12 @@ the work force.
 - **Tools & Environments:** Git, GitHub, VS Code
 - **Concepts:** Data Structures, Web Design, Data Analysis
 
+## Goals
+
+1. Complete Modern Technologies
+2. Learn more about modern tools used in the work force
+3. Startworking on my Computer Science Capstone project
+
 
 
 
