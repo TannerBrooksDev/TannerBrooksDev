@@ -1,5 +1,5 @@
 # Hi there, I'm Tanner! 👋
-
+<!--change from GitHub.com -->
 I am a senior **computer science** and **data science** student at Loras College in Dubuque, Iowa. 
 I am very passionate about software development, web development, and data analysis
 and am excited to bring these skills with me to my future career! I am currently
