@@ -6,6 +6,14 @@ and am excited to bring these skills with me to my future career! I am currently
 enrolled in Modern Technologies and learning more about popular software used in
 the work force. 
 
+## Technical Skills
+
+- **Programming Languages:** Python, C++, HTML5, CSS3, JavaScript
+- **Tools & Environments:** Git, GitHub, VS Code
+- **Concepts:** Data Structures, Web Design, Data Analysis
+
+
+
 
 
 
