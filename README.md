@@ -27,7 +27,7 @@ the workforce.
 ## Contact Information
 
 **Linkedin:** [LinkedIn Profile](https://www.linkedin.com/in/tanner-brooks-a471592b7)
-**Email:** [Email Me](mailto:TannerBrooksDev@Yahoo.com)
+**Email:** [Email Me](mailto:TannerHughesBrooks@gmail.com)
 
 
 
